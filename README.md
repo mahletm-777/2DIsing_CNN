@@ -1,7 +1,7 @@
 # 2D Ising Model applied to Deep Neural Networks
 
 For my graduate computational physics (PHYS 514) final project, I tried to answer the following question:
-> *Can a neural network predict physical properties of a system using only the spatial features and without knowledge of the physics needed to understand the problem*
+> *Can a neural network predict physical properties of a system using only the spatial features and without knowledge of the physics needed to understand the problem?*
 
 The short answer is yes! This repository demonstrates how deep learning can be used to generalize and predict physical patterns from simulated data. Specifically, I trained a Convolutional Neural Network (CNN) to distinguish between the *ordered* and *disordered* states in a simple 2D magnetic system, and tested the accuracy in transferring this knowledge to a **different underlying structure** it has never seen before. 
 

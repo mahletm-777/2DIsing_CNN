@@ -12,9 +12,10 @@ The short answer is yes! This repository demonstrates how deep learning can be u
   - Triangular_MCMC.ipynb
   - CNN.ipynb
   - figures (*.png)
-- data/
+- data/Square_lattice_order_disorder.zip
   - ordered_configs.npy
   - disordered_configs.npy
+- data/Triangular_lattice_order_disorder.zip
   - tri_ordered_configs.npy
   - tri_disordered_configs.npy
 - reports/
